@@ -1,0 +1,49 @@
+#h2{
+	color:yellow;
+}
+.h2{
+	color:red;
+}
+h2{
+	color:blue;
+}
+.h4{
+	color:green;
+}
+.br{
+	color:red;
+}
+.yellow{
+	color:yellow;
+}
+.blue{
+	color:blue;
+}
+.red{
+	color:red;
+}
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;    
+  text-align: center;
+}
+.red{
+	color:red;
+}
+.green{
+	color:green;
+}
+.box1{
+	width:100px;
+	height: 100px;
+	background-color: red;
+	padding: 2em;
+	border:3em;
+}
+.box2{
+	width:100px;
+	height: 100px;
+	background-color:green;
+	margin:20px 30px 40px 50px;  
+	
+}
